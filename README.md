@@ -5,5 +5,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,typescript,react,tailwind,kotlin,swift,apple,arch">
 </p>
 
-![album](https://github.com/user-attachments/assets/65bccf30-f6c2-4311-bd67-b421d0c78dd8)
+<img width="1366" height="500" alt="image" src="https://github.com/user-attachments/assets/568751aa-a884-4d7d-bbcd-3a7274ef52bb" />
+
 
