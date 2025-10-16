@@ -1,9 +1,9 @@
-<h1 align="center">Oi! Eu sou o Gabriel</h1>
-<h3 align="center">Desenvolvedor com foco em Swift e no ecossistema Apple </h3>
+<h1 align="center">Hi! I'm Gabriel</h1>
+<h3 align="center">Developer with a focus on Swift and the Apple ecosystem </h3>
 
 ---
 
-### Linguagens de Programação
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS3">
 </p>
 
-### Frameworks e Bibliotecas
+### Frameworks and Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=dark" alt="Android Studio">
 </p>
 
-### Sistemas Operacionais
+### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" alt="macOS">
   <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white" alt="iOS">
