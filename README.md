@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Gabriel</h1>
-<h3 align="center">Developer with a focus on Swift and the Apple ecosystem </h3>
+<h3 align="center">Developer with a focus on Swift and the Apple ecosystem</h3>
 
 ---
 
