@@ -7,19 +7,19 @@
 
 ## Featured
 
-<img src="https://raw.githubusercontent.com/GabrielDazzi/GridWalk/main/docs/images/icon.png" alt="" width="28" height="28"> **[Grid Walk](https://github.com/GabrielDazzi/GridWalk)**
+**[Grid Walk](https://github.com/GabrielDazzi/GridWalk)**
 
 Free, open source. Race weekend companion for macOS and iPhone. SwiftUI, sits in the menu bar.
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f3/18/8cf3183d-f9a1-49b5-192a-a5ce98437099/AppIcon-0-0-1x_U007epad-0-1-85-220.png/64x64bb.png" alt="" width="28" height="28"> **[VogaTrip](https://apps.apple.com/us/app/vogatrip/id6753733983)**
+**[VogaTrip](https://apps.apple.com/us/app/vogatrip/id6753733983)**
 
 Trip budgets on iPhone and iPad. [Repo](https://github.com/GabrielDazzi/Voga).
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/93/17/1893174e-2f50-cfd0-4119-fa2f27428b51/AppIcon-0-0-1x_U007epad-0-1-85-220.png/64x64bb.png" alt="" width="28" height="28"> **[PetZelo](https://apps.apple.com/us/app/petzelo/id6753752026)**
+**[PetZelo](https://apps.apple.com/us/app/petzelo/id6753752026)**
 
 Paid app on the App Store.
 
-<img src="https://gabrieldazzi.com/loop.png" alt="" width="28" height="28"> **[Loop](https://tcc.gabrieldazzi.com)**
+**[Loop](https://tcc.gabrieldazzi.com)**
 
 My capstone. SwiftUI app, Swift backend (Vapor), tested on a real server. Paused.
 
